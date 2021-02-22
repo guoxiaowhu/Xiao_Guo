@@ -1,2 +1,2 @@
 # My Home Page
-Here is my [personal homepage](https://guoxiaowhu.github.io/Xiao_Guo/)
+This is my [personal homepage](https://guoxiaowhu.github.io/Xiao_Guo/) or [here](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/index.md).
