@@ -6,16 +6,31 @@ You can use the [editor on GitHub](https://github.com/guoxiaowhu/MyHomePage/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-My [github](https://github.com/guoxiaowhu)
+My [github account](https://github.com/guoxiaowhu)
 
 My Zhihu: [guoxiaonaoc]()
 
 My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
-### Education
+## Interesting Area
+- Gravitational Wave
+- Grvaitational lensing & dark matter
+- Neutron star
+- Numerical relativity
+- Numerical calculation for highly osillatory integral
+
+
+## Education
 2013.9-2017.6: Wuhan University, physics, bachelor;
 2017.9-2022.6: National Astronmoical Observatories, astrophysics, doctor. 
-### Conference
+## Conference
+
+
+## Skills
+### Computer Language
+
+---
+## Social Experience
 
 
 ```markdown
