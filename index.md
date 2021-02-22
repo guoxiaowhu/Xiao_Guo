@@ -48,15 +48,15 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
 ---
 ## Popularization of science
 自媒体：
-国科大天文学院：
-- 超新星中的引力波[（一）](https://mp.weixin.qq.com/s/eqoXf2i_EkzhbxffdFO9lg)[（二）](https://mp.weixin.qq.com/s/aIjLWk3Auughyb4JVpGn8A)
-- [双中子星知多少](https://mp.weixin.qq.com/s/v0l248CcaGNPzEnmBjZkTw)
-中科院物理所：
-- [除了时间简史，关于霍金，你还应该知道这些](https://mp.weixin.qq.com/s/yEJJHT_dYrHFAAgfOkxSNw)
-中科院国家天文台：
-- [AI版哥白尼，推导日心说so easy](https://mp.weixin.qq.com/s/ljJSsdUOxPN1YoPBxEeKnQ)
-- 聆听五音俱全的引力波宇宙[1.时空的交响乐](https://mp.weixin.qq.com/s/gH6diX0DKBpRS94A2a2neQ), [2.地基引力波探测](https://mp.weixin.qq.com/s/zeMZAd0crOVD4eFVSJstGw), [3.空间引力波探测](https://mp.weixin.qq.com/s/_gLJK6AtBStHksEGaMAsDQ), [4.脉冲星计时阵引力波探测](https://mp.weixin.qq.com/s/GL4d2mTMsBbughjHwFNhgg), [5.宇宙微波背景实验探测原初引力波](https://mp.weixin.qq.com/s/XB0ZF2RGuctBEdgXC6Ew_g) (主要负责文本撰写)
-- [长图|宇宙中的引力波交响乐](https://mp.weixin.qq.com/s/8UL9jsTFznpwoOQB-hnS8Q)
+- 国科大天文学院：
+-- 超新星中的引力波[（一）](https://mp.weixin.qq.com/s/eqoXf2i_EkzhbxffdFO9lg)[（二）](https://mp.weixin.qq.com/s/aIjLWk3Auughyb4JVpGn8A)
+-- [双中子星知多少](https://mp.weixin.qq.com/s/v0l248CcaGNPzEnmBjZkTw)
+- 中科院物理所：
+-- [除了时间简史，关于霍金，你还应该知道这些](https://mp.weixin.qq.com/s/yEJJHT_dYrHFAAgfOkxSNw)
+- 中科院国家天文台：
+-- [AI版哥白尼，推导日心说so easy](https://mp.weixin.qq.com/s/ljJSsdUOxPN1YoPBxEeKnQ)
+-- 聆听五音俱全的引力波宇宙[1.时空的交响乐](https://mp.weixin.qq.com/s/gH6diX0DKBpRS94A2a2neQ), [2.地基引力波探测](https://mp.weixin.qq.com/s/zeMZAd0crOVD4eFVSJstGw), [3.空间引力波探测](https://mp.weixin.qq.com/s/_gLJK6AtBStHksEGaMAsDQ), [4.脉冲星计时阵引力波探测](https://mp.weixin.qq.com/s/GL4d2mTMsBbughjHwFNhgg), [5.宇宙微波背景实验探测原初引力波](https://mp.weixin.qq.com/s/XB0ZF2RGuctBEdgXC6Ew_g) (主要负责文本撰写)
+-- [长图|宇宙中的引力波交响乐](https://mp.weixin.qq.com/s/8UL9jsTFznpwoOQB-hnS8Q)
 
 报刊：
 - 北京日报 天琴
