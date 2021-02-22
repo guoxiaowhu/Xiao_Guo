@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 My [github](https://github.com/guoxiaowhu)
 
-My [Zhihu]()
+My Zhihu: [guoxiaonaoc]()
 
 My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
