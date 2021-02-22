@@ -1,7 +1,7 @@
-## Welcome to Xiao Guo's Homepage!
+# Welcome to Xiao Guo's Homepage!
 ![我在国图](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/IMG_20191102_162957.jpg)
 
-Xiao GUO (郭潇) is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences.
+**Xiao GUO (郭潇)** is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences.
 
 You can use the [editor on GitHub](https://github.com/guoxiaowhu/MyHomePage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
 ## Education
 - 2013.9-2017.6: Wuhan University, physics, bachelor;
-- 2017.9-2022.6: National Astronmoical Observatories, astrophysics, doctor, supervisor: Youjun Lu. 
+- 2017.9-2022.6: National Astronmoical Observatories, Chinese Academy of Sciences, astrophysics, doctor, supervisor: Youjun Lu. 
 
 ## Publication
 
@@ -76,7 +76,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+ and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
