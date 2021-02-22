@@ -4,9 +4,14 @@ You can use the [editor on GitHub](https://github.com/guoxiaowhu/MyHomePage/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+My [github](https://github.com/guoxiaowhu)
+My [Zhihu]()
+My [ORCID](https://orcid.org/0000-0001-5174-0760)
+### Education
+2013.9-2017.6: Wuhan University, physics, bachelor;
+2017.9-2022.6: National Astronmoical Observatories, astrophysics, doctor. 
+### Conference
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
