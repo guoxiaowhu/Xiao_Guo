@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 My [github account](https://github.com/guoxiaowhu)
 
-My Zhihu: [guoxiaonaoc]()
+My Zhihu: [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc)
 
 My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
@@ -82,10 +82,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guoxiaowhu/MyHomePage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
