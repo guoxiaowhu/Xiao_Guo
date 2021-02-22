@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Xiao Guo's Homepage!
+![Xiao GUO (郭潇)](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/IMG_20191102_162957.jpg)
 
 You can use the [editor on GitHub](https://github.com/guoxiaowhu/MyHomePage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
