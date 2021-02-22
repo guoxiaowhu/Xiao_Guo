@@ -1,13 +1,17 @@
 ## Welcome to Xiao Guo's Homepage!
-![Xiao GUO (郭潇)](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/IMG_20191102_162957.jpg)
+![我在国图](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/IMG_20191102_162957.jpg)
+Xiao GUO (郭潇)
 
 You can use the [editor on GitHub](https://github.com/guoxiaowhu/MyHomePage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 My [github](https://github.com/guoxiaowhu)
+
 My [Zhihu]()
+
 My [ORCID](https://orcid.org/0000-0001-5174-0760)
+
 ### Education
 2013.9-2017.6: Wuhan University, physics, bachelor;
 2017.9-2022.6: National Astronmoical Observatories, astrophysics, doctor. 
