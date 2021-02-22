@@ -1,6 +1,7 @@
 ## Welcome to Xiao Guo's Homepage!
 ![我在国图](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/IMG_20191102_162957.jpg)
-Xiao GUO (郭潇)
+
+Xiao GUO (郭潇) is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences.
 
 You can use the [editor on GitHub](https://github.com/guoxiaowhu/MyHomePage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,7 +14,7 @@ My Zhihu: [guoxiaonaoc]()
 My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
 ## Interesting Area
-- Gravitational Wave
+- Gravitational Wave 
 - Grvaitational lensing & dark matter
 - Neutron star
 - Numerical relativity
@@ -22,14 +23,27 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
 ## Education
 2013.9-2017.6: Wuhan University, physics, bachelor;
-2017.9-2022.6: National Astronmoical Observatories, astrophysics, doctor. 
+2017.9-2022.6: National Astronmoical Observatories, astrophysics, doctor.
+
+## Publication
+
 ## Conference
 
 
 ## Skills
 ### Computer Language
+- python
+- Mathematica
+- Maple
+- MatLab
+- C
+- R
+- julia
+
 
 ---
+## Popularization of science
+
 ## Social Experience
 
 
@@ -40,8 +54,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
