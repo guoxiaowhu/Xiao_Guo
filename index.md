@@ -1,17 +1,19 @@
 # Welcome to Xiao Guo's Homepage!
 ![我在国图](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/IMG_20191102_162957.jpg)
 
-```
+
 **Xiao GUO (郭潇)** is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences.
 
 a member of KAGRA collaboration
+
+E-mail: guoxiao@nao.cas.cn
 
 My [github account](https://github.com/guoxiaowhu)
 
 My Zhihu: [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc)
 
 My [ORCID](https://orcid.org/0000-0001-5174-0760)
-```
+
 ## Interested Field
 - Gravitational Wave 
   - Data analysis
