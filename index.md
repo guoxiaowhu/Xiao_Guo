@@ -6,7 +6,9 @@
 
 a member of KAGRA collaboration
 
-E-mail: guoxiao@nao.cas.cn
+E-mail: guoxiao@nao.cas.cn, guoxiaowhu@whu.edu.cn
+
+My [personal homepage](https://guoxiaowhu.github.io/Xiao_Guo/)
 
 My [github account](https://github.com/guoxiaowhu)
 
@@ -36,12 +38,15 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
 ## Publication
 
+
+
 ## Conference
 - 2016年8月，北京师范大学第三届广义相对论和量子引力国际暑期学校，北京;
 - 2017年，理论物理所数值相对论春季学校，北京;
 - 2017年7月，中山大学引力波暑期学校，珠海;
-- 2019年8月，引力波天体物理会议，昆明;
+- 2019.8, the Third Conference for Gravitational Wave Astrophysics, Kunming(昆明), China;
 -  5th KAGRA
+-  Taiji 
 
 ## Fundings
 
@@ -56,7 +61,7 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
 - julia
 
 ### Courses
-
+I have learnt [these courses](https://github.com/guoxiaowhu/Courses)  
 ---
 ## Popularization of Science
 自媒体：
@@ -81,14 +86,6 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-
-1. Numbered
-2. List
 
  and _Italic_ and `Code` text
 
