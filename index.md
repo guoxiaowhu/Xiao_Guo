@@ -1,5 +1,5 @@
 # Welcome to Xiao Guo's Homepage!
-![我在国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/IMG_20191102_162957.jpg)
+![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/National_Lib.jpg)
 
 
 **Xiao GUO (郭潇)** is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences.
