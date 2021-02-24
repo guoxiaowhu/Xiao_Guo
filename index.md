@@ -38,7 +38,36 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
 ## Publication
 
+<!DOCTYPE html>
+<html>
+<body>
 
+  <p><b>
+    <a href="https://inspirehep.net/literature/1835337">
+      Convergence and Efficiency of Different Methods to Compute the Diffraction Integral for Gravitational Lensing of Gravitational Waves
+    </a>
+  </b></p>
+  
+    <p>Xiao Guo, <a href="https://inspirehep.net/authors/1026451">Youjun Lu</a></p>
+  
+  <p>
+      e-Print:
+          <a href="https://arxiv.org/abs/2012.03474">
+      2012.03474
+    </a>[gr-qc]</p>
+  <p>
+        DOI:
+        <a href="https://doi.org/10.1103/PhysRevD.102.124076">
+      10.1103/PhysRevD.102.124076
+    </a>(publication)
+      </p>
+  <p>
+    Published in:<span>
+      Phys.Rev.D 102 (2020) 12,
+      124076</span></p>
+  <br>
+</body>
+</html>
 
 ## Conference
 - 2016年8月，北京师范大学第三届广义相对论和量子引力国际暑期学校，北京;
