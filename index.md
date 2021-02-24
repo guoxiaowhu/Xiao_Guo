@@ -48,7 +48,7 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
     </a>
   </b></p>
   
-    <p>Xiao Guo, <a href="https://inspirehep.net/authors/1026451">Youjun Lu</a></p>
+    <p>Xiao Guo, Youjun Lu</a></p>
   
   <p>
       e-Print:
