@@ -20,6 +20,7 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
 - Gravitational Wave 
   - Data analysis
   - Pulsar timing array
+  - Grvaitational lensing of grvaitational wave
   - Waveform template calculation
   - Origin of gravitational wave sources 
 - Grvaitational lensing & dark matter
