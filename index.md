@@ -16,7 +16,7 @@ My Zhihu: [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc)
 
 My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
-## Interested Field
+## Interested Fields
 - Gravitational Wave 
   - Data analysis
   - Pulsar timing array
@@ -27,7 +27,7 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
   - Nature of dark matter
   - Mathemetics of gravititional lensing
 - Compact objects
-  - Neutron star: equation of state
+  - Neutron star: equation of state, including quark star, strangeon star and so on
   - Black hole
 - Numerical relativity
 - Numerical calculation for highly osillatory integral
