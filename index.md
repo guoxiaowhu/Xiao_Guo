@@ -35,7 +35,7 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
 ## Education
 - 2013.9-2017.6: Wuhan University, physics, bachelor;
-- 2017.9-2022.6: National Astronmoical Observatories, Chinese Academy of Sciences, astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000324.html)). 
+- 2017.9-2022.6: National Astronomical Observatories, Chinese Academy of Sciences, astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000324.html)). 
 
 ## Publication
 
