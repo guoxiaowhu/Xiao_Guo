@@ -5,13 +5,11 @@
 **Xiao GUO (郭潇)** is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences. 
 
 And I'm a member of KAGRA collaboration. Here is some personal information about me:
-| | |
-|---|---|
-|E-mail | guoxiao@nao.cas.cn, guoxiaowhu@whu.edu.cn |
-|ORCID | [0000-0001-5174-0760](https://orcid.org/0000-0001-5174-0760) |
-|Homepage | [https://guoxiaowhu.github.io/Xiao_Guo/](https://guoxiaowhu.github.io/Xiao_Guo/) |
-| Github | [guoxiaowhu](https://github.com/guoxiaowhu) |
-| Zhihu(知乎) | [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc) |
+- E-mail: guoxiao@nao.cas.cn, guoxiaowhu@whu.edu.cn 
+- ORCID: [0000-0001-5174-0760](https://orcid.org/0000-0001-5174-0760)
+- Homepage: [https://guoxiaowhu.github.io/Xiao_Guo/](https://guoxiaowhu.github.io/Xiao_Guo/) 
+- Github: [guoxiaowhu](https://github.com/guoxiaowhu) 
+- Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc) 
 
 
 
