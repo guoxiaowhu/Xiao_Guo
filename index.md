@@ -8,13 +8,15 @@ And I'm a member of KAGRA collaboration. Here is some personal information about
 
 E-mail: guoxiao@nao.cas.cn, guoxiaowhu@whu.edu.cn
 
-My [personal homepage](https://guoxiaowhu.github.io/Xiao_Guo/)
+ORCID: [0000-0001-5174-0760](https://orcid.org/0000-0001-5174-0760).
 
-My [github account](https://github.com/guoxiaowhu)
+Personal homepage: [https://guoxiaowhu.github.io/Xiao_Guo/](https://guoxiaowhu.github.io/Xiao_Guo/)
 
-My Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc)
+Github account: [guoxiaowhu](https://github.com/guoxiaowhu)
 
-My [ORCID](https://orcid.org/0000-0001-5174-0760)
+Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc)
+
+
 
 ## Interested Fields
 - Gravitational Wave 
@@ -69,6 +71,8 @@ My [ORCID](https://orcid.org/0000-0001-5174-0760)
   <br>
 </body>
 </html>
+
+More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
 
 ## Conference
 - 2016年8月，北京师范大学第三届广义相对论和量子引力国际暑期学校，北京;
