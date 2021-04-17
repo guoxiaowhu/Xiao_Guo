@@ -2,9 +2,9 @@
 ![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/National_Lib.jpg)
 
 
-**Xiao GUO (郭潇)** is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences.
+**Xiao GUO (郭潇)** is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences. 
 
-a member of KAGRA collaboration
+And I'm a member of KAGRA collaboration
 
 E-mail: guoxiao@nao.cas.cn, guoxiaowhu@whu.edu.cn
 
