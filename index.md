@@ -68,7 +68,7 @@ Here is some personal information about me:
 
 More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
 
-## Conference
+## Conferences
 - 2016年8月，北京师范大学第三届广义相对论和量子引力国际暑期学校，北京;
 - 2017年，理论物理所数值相对论春季学校，北京;
 - 2017年7月，中山大学引力波暑期学校，珠海;
