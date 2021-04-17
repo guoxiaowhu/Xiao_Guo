@@ -12,7 +12,7 @@ My [personal homepage](https://guoxiaowhu.github.io/Xiao_Guo/)
 
 My [github account](https://github.com/guoxiaowhu)
 
-My Zhihu: [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc)
+My Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc)
 
 My [ORCID](https://orcid.org/0000-0001-5174-0760)
 
