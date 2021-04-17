@@ -4,7 +4,7 @@
 
 **Xiao GUO (郭潇)** is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences. 
 
-And I'm a member of KAGRA collaboration
+And I'm a member of KAGRA collaboration. Here is some information about me:
 
 E-mail: guoxiao@nao.cas.cn, guoxiaowhu@whu.edu.cn
 
