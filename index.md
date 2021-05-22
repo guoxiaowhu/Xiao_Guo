@@ -14,11 +14,14 @@ Here is some personal information about me:
 - Music
 - Chinese poetry
 - Running, badminton and so on
-- Astrophile, and like the beauty of nature
+- Astrophile, and I like the beauty of nature
 - Photography
 - Go (围棋) and so on
 
-
+<blockquote>
+吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）
+<blockquote>
+  
 ## Interested Fields
 - Gravitational Wave 
   - Data analysis
@@ -34,6 +37,7 @@ Here is some personal information about me:
   - Black hole
 - Numerical relativity
 - Numerical calculation for highly osillatory integral
+- Cosmology
 
 
 ## Education
