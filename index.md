@@ -19,7 +19,7 @@ Here is some personal information about me:
 - Go (围棋) and so on
 
 <blockquote>
-   吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）
+   _吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）_
 </blockquote>
   
 ## Interested Fields
@@ -83,15 +83,15 @@ Here is some personal information about me:
 More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
 
 ## Conferences & School
-- 2016年8月，北京师范大学第三届广义相对论和量子引力国际暑期学校，北京;
-- 2017, Spring School for 理论物理所数值相对论春季学校，北京;
-- 2017.7, the Gravitational Wave Summer School, Zhuhai(珠海), China中山大学引力波暑期学校，珠海;
+- 2016.8, the 3rd BNU International Summer School on Quantum Gravity, Beijing(北京), China;
+- 2017, Spring School for Numerical Rela Beijing(北京), China理论物理所数值相对论春季学校;
+- 2017.7, the SYSU Gravitational Wave Summer School, Zhuhai(珠海), China;
 - 2019.6, the 6th KAGRA International Workshop, Wuhan(武汉), China;
 - 2019.8, the Third Conference for Gravitational Wave Astrophysics, Kunming(昆明), China;
 - Taiji
 - 北大
-- 2021.4, Shenyang(沈阳), China;
-- 
+- 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society, Shenyang(沈阳), China;
+
 
 ## Fundings
 
