@@ -37,7 +37,10 @@ Here is some personal information about me:
   - Black hole
 - Numerical relativity
 - Numerical calculation for highly osillatory integral
-- Cosmology
+- Gravitation & Cosmology
+  - Gravitation thoery
+  - Dark matter
+  - Dark energy
 
 
 ## Education
