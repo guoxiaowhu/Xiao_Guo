@@ -68,14 +68,16 @@ Here is some personal information about me:
 
 More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
 
-## Conferences
+## Conferences & School
 - 2016年8月，北京师范大学第三届广义相对论和量子引力国际暑期学校，北京;
-- 2017年，理论物理所数值相对论春季学校，北京;
-- 2017年7月，中山大学引力波暑期学校，珠海;
+- 2017, Spring School for 理论物理所数值相对论春季学校，北京;
+- 2017.7, the Gravitational Wave Summer School, Zhuhai(珠海), China中山大学引力波暑期学校，珠海;
 - 2019.6, the 6th KAGRA International Workshop, Wuhan(武汉), China;
 - 2019.8, the Third Conference for Gravitational Wave Astrophysics, Kunming(昆明), China;
+- Taiji
+- 北大
+- 2021.4, Shenyang(沈阳), China;
 - 
--  Taiji 
 
 ## Fundings
 
@@ -106,20 +108,21 @@ I have learnt [these courses](https://github.com/guoxiaowhu/Courses)
 
 报刊：
 - 北京日报 天琴
-- 知识就是力量 
+- 郭潇&陆由俊(2019). 引力波探测：倾听宇宙的弦外之音. 知识就是力量（汉藏文）, 1, 22
 
 ## Social Experience
 
 
+## Hobbies 
+- Music
+- Chinese poems
+- Running, badminton and so on
+- Astrophile, and like the beauty of nature
+- Photography
+- Go (围棋) and so on
+
 # Others
 
-```markdown
-Syntax highlighted code block
-
- and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
