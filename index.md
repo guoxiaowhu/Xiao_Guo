@@ -19,8 +19,8 @@ Here is some personal information about me:
 - Go (围棋) and so on
 
 <blockquote>
-吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）
-<blockquote>
+  <p> 吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）
+</blockquote>
   
 ## Interested Fields
 - Gravitational Wave 
