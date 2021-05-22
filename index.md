@@ -12,7 +12,7 @@ Here is some personal information about me:
 
 ## Hobbies 
 - Music
-- Chinese poems
+- Chinese poetry
 - Running, badminton and so on
 - Astrophile, and like the beauty of nature
 - Photography
@@ -100,7 +100,9 @@ More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
 
 ### Courses
 I have learnt [these courses](https://github.com/guoxiaowhu/Courses)  
+
 ---
+
 ## Popularization of Science
 自媒体：
 - 国科大天文学院：
