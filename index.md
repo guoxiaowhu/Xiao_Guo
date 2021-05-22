@@ -10,6 +10,13 @@ Here is some personal information about me:
 - Github: [guoxiaowhu](https://github.com/guoxiaowhu) 
 - Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc) 
 
+## Hobbies 
+- Music
+- Chinese poems
+- Running, badminton and so on
+- Astrophile, and like the beauty of nature
+- Photography
+- Go (围棋) and so on
 
 
 ## Interested Fields
@@ -113,13 +120,6 @@ I have learnt [these courses](https://github.com/guoxiaowhu/Courses)
 ## Social Experience
 
 
-## Hobbies 
-- Music
-- Chinese poems
-- Running, badminton and so on
-- Astrophile, and like the beauty of nature
-- Photography
-- Go (围棋) and so on
 
 # Others
 
