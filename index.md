@@ -19,7 +19,7 @@ Here is some personal information about me:
 - Go (围棋) and so on
 
 <blockquote>
-   _吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）_
+  <p> 吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）</p>
 </blockquote>
   
 ## Interested Fields
