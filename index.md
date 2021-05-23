@@ -14,7 +14,7 @@ Here is some personal information about me:
 - Music
 - Chinese poetry
 - Running, badminton and so on
-- Astrophile, and I like the beauty of nature
+- Astronomy & traveling, and I like the beauty of nature
 - Photography
 - Go (围棋) and so on
 
