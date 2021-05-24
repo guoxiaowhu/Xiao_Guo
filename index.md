@@ -11,7 +11,7 @@ Here is some personal information about me:
 - Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc) 
 
 ## Hobbies 
-- Music: singing, harmonica, piano, etc.
+- Music: singing, harmonica(口琴), piano, etc.
 - Chinese poetry
 - Running, badminton, etc.
 - Astronomy & traveling, and I like the beauty of nature
