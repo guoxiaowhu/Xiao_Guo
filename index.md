@@ -89,7 +89,7 @@ More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
 - 2019.6, the 6th KAGRA International Workshop, Wuhan(武汉), China;
 - 2019.8, the Third Conference for Gravitational Wave Astrophysics, Kunming(昆明), China;
 - Taiji
-- 北大
+- 2019.11, The 2019 KIAA-PKU Astrophysics Forum: The Future of Gravitational Wave Astrophysics, Beijing（北京）, China;
 - 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society, Shenyang(沈阳), China;
 
 
