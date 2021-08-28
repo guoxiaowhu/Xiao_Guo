@@ -50,7 +50,7 @@ Here is some personal information about me:
 - 2013.9-2017.6: [Wuhan University](https://www.whu.edu.cn/), physics, bachelor;
 - 2017.9-2022.6: [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000324.html)). 
 
-## Publication
+## Publications
 
 <!DOCTYPE html>
 <html>
@@ -83,7 +83,7 @@ Here is some personal information about me:
 </body>
 </html>
 
-More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
+More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-0760).
 
 ## Conferences & Schools
 - 2016.8, the 3rd BNU International Summer School on Quantum Gravity, Beijing(北京), China;
