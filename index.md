@@ -47,8 +47,8 @@ Here is some personal information about me:
 
 
 ## Education
-- 2013.9-2017.6: Wuhan University, physics, bachelor;
-- 2017.9-2022.6: National Astronomical Observatories, Chinese Academy of Sciences, astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000324.html)). 
+- 2013.9-2017.6: [Wuhan University](https://www.whu.edu.cn/), physics, bachelor;
+- 2017.9-2022.6: [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000324.html)). 
 
 ## Publication
 
