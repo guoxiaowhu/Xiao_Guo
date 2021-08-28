@@ -29,12 +29,12 @@ Here is some personal information about me:
 - Gravitational Wave 
   - Data analysis
   - Pulsar timing array
-  - Grvaitational lensing of grvaitational wave
+  - Gravitational lensing of gravitational wave
   - Waveform template calculation
   - Origins of gravitational wave sources 
-- Grvaitational lensing & dark matter
+- Gravitational lensing & dark matter
   - Nature of dark matter
-  - Mathemetics of gravititional lensing
+  - Mathemetics of gravitational lensing
 - Compact objects
   - Neutron star: equation of state, including quark star, strangeon star and so on
   - Black hole
