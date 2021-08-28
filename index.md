@@ -131,5 +131,3 @@ I have learnt [these courses](https://github.com/guoxiaowhu/Courses)
 
 ## Social Experience
 voluteers
-
-# Others
