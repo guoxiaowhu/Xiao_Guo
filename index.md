@@ -85,7 +85,7 @@ Here is some personal information about me:
 
 More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
 
-## Conferences & School
+## Conferences & Schools
 - 2016.8, the 3rd BNU International Summer School on Quantum Gravity, Beijing(北京), China;
 - 2017, Spring School for Numerical Relativity, Beijing(北京), China (理论物理所数值相对论春季学校);
 - 2017.7, the SYSU Gravitational Wave Summer School, Zhuhai(珠海), China;
