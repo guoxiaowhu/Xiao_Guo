@@ -10,9 +10,10 @@ Here is some personal information about me:
 - Github: [guoxiaowhu](https://github.com/guoxiaowhu) 
 - Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc) 
 
-余喜爱数理、天文、诗词乐曲，偶尔写诗作赋，寄情山水。
+
 
 ## Hobbies 
+余喜爱数理、天文、诗词乐曲，偶尔写诗作赋，寄情山水。
 - Music: singing, harmonica(口琴), piano, etc.
 - Chinese poetry
 - Running, badminton, etc.
