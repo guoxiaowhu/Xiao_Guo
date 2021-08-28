@@ -94,7 +94,7 @@ More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
 - Taiji
 - 2019.11, The 2019 KIAA-PKU Astrophysics Forum: The Future of Gravitational Wave Astrophysics, Beijing（北京）, China;
 - 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society, Shenyang(沈阳), China;
-- 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1), Kunming(昆明), China;
+- 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1), Hefei(合肥), China;
 
 ## Fundings
 
