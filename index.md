@@ -2,7 +2,7 @@
 ![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/National_Lib.jpg)
 
 
-**Xiao GUO (郭潇)** is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences. And I'm a member of KAGRA collaboration. 
+**Xiao GUO (郭潇)** is a PhD student at National Astronmical Obsertories, Chinese Academy of Sciences. And I'm a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/). 
 Here is some personal information about me:
 - E-mail: guoxiao@nao.cas.cn, guoxiaowhu@whu.edu.cn 
 - ORCID: [0000-0001-5174-0760](https://orcid.org/0000-0001-5174-0760)
@@ -94,7 +94,7 @@ More publication can see my [ORCID](https://orcid.org/0000-0001-5174-0760).
 - Taiji
 - 2019.11, The 2019 KIAA-PKU Astrophysics Forum: The Future of Gravitational Wave Astrophysics, Beijing（北京）, China;
 - 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society, Shenyang(沈阳), China;
-
+- 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1), Kunming(昆明), China;
 
 ## Fundings
 
