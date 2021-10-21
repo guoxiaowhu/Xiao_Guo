@@ -120,7 +120,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - 郭潇&陆由俊(2019). 引力波探测：倾听宇宙的弦外之音. 知识就是力量（汉藏文）, 1, 22
 
 科普报告：
-- [四合院里中中秋望月](https://mp.weixin.qq.com/s/i-6gg5m9uFde4tgXktJK0A)@美后肆时F1美会馆(2021.9.21，中秋)
+- [四合院里中秋望月](https://mp.weixin.qq.com/s/i-6gg5m9uFde4tgXktJK0A)@美后肆时F1美会馆(2021.9.21，中秋)
 - [引力波：倾听宇宙的交响乐](https://mp.weixin.qq.com/s/iEVpdyqeZx2nZI8PCCLhvQ)@美后肆时F1美会馆(2021.10.7)
 
 科普著作：
