@@ -87,14 +87,14 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 
 ## Conferences & Schools
 - 2016.8, the 3rd BNU International Summer School on Quantum Gravity, Beijing(北京), China;
-- 2017, Spring School for Numerical Relativity, Beijing(北京), China (理论物理所数值相对论春季学校);
+- 2017, Spring School for Numerical Relativity, ITP, CAS, Beijing(北京), China (理论物理所数值相对论春季学校);
 - 2017.7, the SYSU Gravitational Wave Summer School, Zhuhai(珠海), China;
 - 2019.6, the 6th KAGRA International Workshop, Wuhan(武汉), China;
 - 2019.8, the Third Conference for Gravitational Wave Astrophysics, Kunming(昆明), China;
-- Taiji
 - 2019.11, The 2019 KIAA-PKU Astrophysics Forum: The Future of Gravitational Wave Astrophysics, Beijing（北京）, China;
 - 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society, Shenyang(沈阳), China;
 - 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1), Hefei(合肥), China;
+- .....
 
 ## Fundings
 
@@ -130,4 +130,8 @@ I have learnt [these courses](https://github.com/guoxiaowhu/Courses)
 - 郭潇&陆由俊(2019). 引力波探测：倾听宇宙的弦外之音. 知识就是力量（汉藏文）, 1, 22
 
 ## Social Experience
-voluteers
+- 2014-2015，武汉大学物理学院13级物基二班班长；
+- 2016-2017，武汉大学弘毅学堂16级弘毅五班助理班主任；
+- 2017-2018，中国科学院大学天文协会科普部部长；
+- 2017-2018，中国科学院与"两弹一星"纪念馆讲解员；
+- 2018-2019，国家天文台研究生会学术部部长。
