@@ -147,4 +147,4 @@ I have learnt [these courses](https://github.com/guoxiaowhu/Courses)
 - 2017-2018，中国科学院与"两弹一星"纪念馆讲解员；
 - 2018-2019，国家天文台研究生会学术部部长；
 - 南斗天文工作室兼职老师
-（南斗天文团队（注册公司：南斗星（北京）科技有限公司）是一个专门致力于天文科普的团队，更多详情请见[链接](https://mp.weixin.qq.com/s/m4p0BCXEAaRSqXwR3WzC8A)。）
+（南斗天文团队（注册公司：南斗星（北京）科技有限公司）是一个专门致力于天文科普的团队，更多详情请见[链接](https://mp.weixin.qq.com/s/m4p0BCXEAaRSqXwR3WzC8A)，欢迎关注南斗天文微信公众号）
