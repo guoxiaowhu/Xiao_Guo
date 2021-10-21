@@ -98,18 +98,8 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 
 ## Fundings
 
-## Skills
-### Computer Language
-- python
-- Mathematica
-- Maple
-- MatLab
-- C
-- R
-- julia
-
-### Courses
-I have learnt [these courses](https://github.com/guoxiaowhu/Courses)  
+## Skills & Courses
+I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)  
 
 ---
 
