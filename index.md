@@ -39,7 +39,7 @@ Here is some personal information about me:
   - Neutron star: equation of state, including quark star, strangeon star and so on
   - Black hole
 - Numerical relativity
-- Numerical calculation for highly osillatory integral
+- Numerical calculation for highly oscillatory integral
 - Gravitation & Cosmology
   - Gravitational thoery
   - Dark matter
