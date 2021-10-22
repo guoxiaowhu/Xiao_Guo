@@ -34,7 +34,7 @@ Here is some personal information about me:
   - Origins of gravitational wave sources 
 - Gravitational lensing & dark matter
   - Nature of dark matter
-  - Mathemetics of gravitational lensing
+  - Mathematics of gravitational lensing
 - Compact objects
   - Neutron star: equation of state, including quark star, strangeon star and so on
   - Black hole
