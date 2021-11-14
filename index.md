@@ -128,7 +128,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - 在南斗天文团队中参与了[《DK太空》](https://mp.weixin.qq.com/s/cz2Hl51nxG64pcd454zrGQ)一书的校译工作，尤其是其中宇宙学的部分由我负责
 
 线上课程：
-- 与杨道业、王涛等人一起设计、开发，并与儒力教育（负责销售）合作推出的[线上天文课](https://mp.weixin.qq.com/s/i2Tf_MF0pU88OsjecVbIlA)，与传统的天文课不同，该课程的特色是设计了很多实验，理论与实践相结合
+- 与杨道业、王涛等人一起设计、开发，并与儒力教育（负责销售）合作推出的[线上天文实验课](https://mp.weixin.qq.com/s/i2Tf_MF0pU88OsjecVbIlA)，与传统的天文课不同，该课程的特色是设计了很多实验，理论与实践相结合
 
 
 ## Social Experience
