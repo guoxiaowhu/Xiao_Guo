@@ -16,7 +16,7 @@ Here is some personal information about me:
 ## Hobbies 
 余喜爱数理、天文、诗词乐曲，偶尔写诗作赋，寄情山水。
 - Music: singing, harmonica(口琴), piano, etc.
-- Chinese poetry
+- [Chinese poetry](https://github.com/guoxiaowhu/chinese-poetry)
 - Running, badminton, etc.
 - Astronomy & traveling, and I like the beauty of nature
 - Photography
@@ -134,8 +134,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 ## Social Experience
 - 2014-2015，武汉大学物理学院13级物基二班班长；
 - 2016-2017，武汉大学弘毅学堂16级弘毅五班助理班主任；
-- 2017-2018，中国科学院大学天文协会科普部部长；
-- 2017-2018，中国科学院与"两弹一星"纪念馆讲解员；
+- 2017-2018，中国科学院大学天文协会科普部部长，中国科学院与"两弹一星"纪念馆讲解员；
 - 2018-2019，国家天文台研究生会学术部部长；
 - 2019至今，南斗天文工作室兼职老师
 （南斗天文团队（注册公司：南斗星（北京）科技有限公司）是一个专门致力于天文科普的团队，更多详情请见[链接](https://mp.weixin.qq.com/s/m4p0BCXEAaRSqXwR3WzC8A)，欢迎关注南斗天文微信公众号）
