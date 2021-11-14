@@ -117,7 +117,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
   - [长图 宇宙中的引力波交响乐](https://mp.weixin.qq.com/s/8UL9jsTFznpwoOQB-hnS8Q)
 
 报刊：
-- 北京日报 天琴
+- 郭潇，天琴：听见更多引力波的旋律. 北京日报
 - 郭潇&陆由俊(2019). 引力波探测：倾听宇宙的弦外之音. 知识就是力量（汉藏文）, 1, 22
 
 科普报告：
