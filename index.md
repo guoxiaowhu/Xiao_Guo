@@ -53,7 +53,7 @@ Here is some personal information about me:
 
 ## Publications
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
