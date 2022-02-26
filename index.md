@@ -126,6 +126,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 科普报告：
 - [四合院里中秋望月](https://mp.weixin.qq.com/s/i-6gg5m9uFde4tgXktJK0A)@美后肆时F1美会馆(2021.9.21，中秋)
 - [引力波：倾听宇宙的交响乐](https://mp.weixin.qq.com/s/iEVpdyqeZx2nZI8PCCLhvQ)@美后肆时F1美会馆(2021.10.7)
+- ......
 
 科普著作：
 - 在南斗天文团队中参与了[《DK太空》](https://mp.weixin.qq.com/s/cz2Hl51nxG64pcd454zrGQ)一书的校译工作，尤其是其中宇宙学的部分由我负责
