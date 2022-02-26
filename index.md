@@ -38,7 +38,7 @@ Here is some personal information about him:
 - 2017.9-2022.6: [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000324.html)). 
 
 ## Teaching
-Teaching assistant of Youjun Lu's Gravitationa and Cosmology in UCAS, spring, 2022
+Teaching assistant of Youjun Lu's _Gravitation and Cosmology_ course in UCAS, spring, 2022
 
 ## Publications
 
