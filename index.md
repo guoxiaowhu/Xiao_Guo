@@ -82,8 +82,10 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 - 2019.6, the 6th KAGRA International Workshop @ Wuhan(武汉), China;
 - 2019.8, the Third Conference for Gravitational Wave Astrophysics @ Kunming(昆明), China;
 - 2019.11, The 2019 KIAA-PKU Astrophysics Forum: The Future of Gravitational Wave Astrophysics @ PKU, Beijing(北京), China;
+- 2021.2.20-28, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC_NAOC), online
 - 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society @ Shenyang(沈阳), China;
 - 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1) @ Hefei(合肥), China;
+- 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC), online
 - .....
 
 ## Fundings
