@@ -12,21 +12,6 @@ Here is some personal information about him:
 - Github: [guoxiaowhu](https://github.com/guoxiaowhu) 
 - Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc) 
 
-
-
-## Hobbies 
-余喜爱数理、天文、诗词乐曲，偶尔写诗作赋，寄情山水。
-- Music: singing, harmonica(口琴), piano, etc.
-- [Chinese poetry](https://github.com/guoxiaowhu/chinese-poetry)
-- Running, badminton, etc.
-- Astronomy & traveling, and I like the beauty of nature
-- Photography
-- Go (围棋) and so on
-
-<blockquote>
-  <p> 吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）</p>
-</blockquote>
-  
 ## Interested Fields
 - Gravitational Wave 
   - Data analysis
@@ -51,6 +36,9 @@ Here is some personal information about him:
 ## Education
 - 2013.9-2017.6: [Wuhan University](https://www.whu.edu.cn/), physics, bachelor;
 - 2017.9-2022.6: [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000324.html)). 
+
+## Teaching
+Teaching assistant of Youjun Lu's Gravitationa and Cosmology in UCAS, spring, 2022
 
 ## Publications
 
@@ -104,6 +92,20 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)  
 
 ---
+
+## Hobbies 
+余喜爱数理、天文、诗词乐曲，偶尔写诗作赋，寄情山水。
+- Music: singing, harmonica(口琴), piano, etc.
+- [Chinese poetry](https://github.com/guoxiaowhu/chinese-poetry)
+- Running, badminton, etc.
+- Astronomy & traveling, and I like the beauty of nature
+- Photography
+- Go (围棋) and so on
+
+<blockquote>
+  <p> 吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）</p>
+</blockquote>
+  
 
 ## Popularization of Science
 自媒体：
