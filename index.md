@@ -11,7 +11,7 @@ Here is some personal information about him:
 - Homepage: [https://guoxiaowhu.github.io/Xiao_Guo/](https://guoxiaowhu.github.io/Xiao_Guo/) 
 - Github: [guoxiaowhu](https://github.com/guoxiaowhu) 
 - Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc) 
-
+- WeChat Public Account: 疏雪雾里
 ## Interested Fields
 - Gravitational Wave 
   - Data analysis
@@ -140,3 +140,6 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - 2018-2019，国家天文台研究生会学术部部长；
 - 2019至今，南斗天文工作室兼职老师
 （南斗天文团队（注册公司：南斗星（北京）科技有限公司）是一个专门致力于天文科普的团队，更多详情请见[链接](https://mp.weixin.qq.com/s/m4p0BCXEAaRSqXwR3WzC8A)，欢迎关注南斗天文微信公众号）
+
+## 友情链接
+[我的好友陈洋遥的个人主页](https://www.chenyangyao.com/)
