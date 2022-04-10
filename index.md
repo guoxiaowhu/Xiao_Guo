@@ -88,8 +88,6 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 - 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC), online
 - .....
 
-## Fundings
-
 ## Skills & Courses
 I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)  
 
@@ -106,6 +104,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 
 <blockquote>
   <p> 吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）</p>
+  <p> 情动于中故形于言，言之不足故嗟叹之，嗟叹之不足故咏歌之。（《毛诗序》）</p>
 </blockquote>
   
 
