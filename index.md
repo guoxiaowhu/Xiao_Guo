@@ -104,7 +104,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 
 <blockquote>
   <p> 吾听风雨，吾览江山，常觉风雨江山之外，有万不得已者在。此万不得已者，即词心。（周况颐）</p>
-  <p> 情动于中故形于言，言之不足故嗟叹之，嗟叹之不足故咏歌之。（《毛诗序》）</p>
+  <p> 诗者，志之所之也，在心为志，发言为诗，情动于中而形于言，言之不足，故嗟叹之，嗟叹之不足，故咏歌之（《毛诗序》）</p>
 </blockquote>
   
 
