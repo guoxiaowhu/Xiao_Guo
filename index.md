@@ -41,37 +41,10 @@ Here is some personal information about him:
 Teaching assistant of Youjun Lu's _Gravitation and Cosmology_ course in UCAS, spring, 2022
 
 ## Publications
+- **Guo, Xiao**, \& Lu, Youjun, (2020). Convergence and efficiency of different methods to compute the diffraction integral for gravitational lensing of gravitational waves. Physical Review D, 102(12), 124076.
+- 陆由俊，**郭潇**, (2022).人类首次探测到中子星-黑洞并合. 科学通报, 1-6, \url{https://doi.org/10.1360/TB-2022-0078}.
 
 
-<html>
-<body>
-
-  <p><b>
-    <a href="https://inspirehep.net/literature/1835337">
-      Convergence and Efficiency of Different Methods to Compute the Diffraction Integral for Gravitational Lensing of Gravitational Waves
-    </a>
-  </b></p>
-  
-    Xiao Guo, Youjun Lu
-  
-  <p>
-      e-Print:
-          <a href="https://arxiv.org/abs/2012.03474">
-      2012.03474
-    </a>[gr-qc]</p>
-  <p>
-        DOI:
-        <a href="https://doi.org/10.1103/PhysRevD.102.124076">
-      10.1103/PhysRevD.102.124076
-    </a>(publication)
-      </p>
-  <p>
-    Published in:<span>
-      Phys.Rev.D 102 (2020) 12,
-      124076</span></p>
-  <br>
-</body>
-</html>
 
 More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-0760).
 
