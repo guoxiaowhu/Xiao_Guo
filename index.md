@@ -42,7 +42,7 @@ Teaching assistant of Youjun Lu's _Gravitation and Cosmology_ course in UCAS, sp
 
 ## Publications
 - **Guo, Xiao**, \& Lu, Youjun, (2020). Convergence and efficiency of different methods to compute the diffraction integral for gravitational lensing of gravitational waves. [Physical Review D, 102, 124076.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.124076)
-- 陆由俊，**郭潇**, (2022).人类首次探测到中子星-黑洞并合. 科学通报, 1-6, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
+- 陆由俊，**郭潇**, (2022).人类首次探测到中子星-黑洞并合(The first detection of neutron star-black hole binary mergers). 科学通报(Chinese Science Bulletin), 1-6, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
 - **Guo, Xiao**, \& Lu, Youjun, (2022). Probing the nature of dark matter via gravitational waves lensed by small dark matter halos. [Physical Review D, 106, 023018.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.023018)
 
 
