@@ -42,7 +42,7 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 
 ## Publications
 - **Guo, Xiao**, & Lu, Youjun, (2020). Convergence and efficiency of different methods to compute the diffraction integral for gravitational lensing of gravitational waves. [Physical Review D, 102, 124076.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.124076) arXiv:2012.03474.
-- 陆由俊，**郭潇**, (2022).人类首次探测到中子星-黑洞并合(The first detection of neutron star-black hole binary mergers). 科学通报(Chinese Science Bulletin), 1-6, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
+- 陆由俊，**郭潇**, (2022).人类首次探测到中子星-黑洞并合(The first detection of neutron star-black hole binary mergers). 科学通报(Chinese Science Bulletin), 67: 2610-2615, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
 - **Guo, Xiao**, & Lu, Youjun, (2022). Probing the nature of dark matter via gravitational waves lensed by small dark matter halos. [Physical Review D, 106, 023018.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.023018) arXiv:2207.00325. 
 
 
@@ -96,11 +96,13 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 期刊/报刊：
 - 郭潇，天琴：听见更多引力波的旋律. 北京日报
 - **郭潇** & 陆由俊(2019). 引力波探测：倾听宇宙的弦外之音. 知识就是力量（汉藏文）, 1, 22
-- 陆由俊，**郭潇**, (2022).人类首次探测到中子星-黑洞并合. 科学通报, 1-6, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
+- 陆由俊，**郭潇**, (2022).人类首次探测到中子星-黑洞并合. 科学通报, 67: 2610-2615, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
 
 科普报告：
 - [四合院里中秋望月](https://mp.weixin.qq.com/s/i-6gg5m9uFde4tgXktJK0A)@美后肆时F1美会馆(2021.9.21，中秋)
 - [引力波：倾听宇宙的交响乐](https://mp.weixin.qq.com/s/iEVpdyqeZx2nZI8PCCLhvQ)@美后肆时F1美会馆(2021.10.7)
+- [中国的探月故事](https://mp.weixin.qq.com/s/fjwY-nMQJ430ZUEN9LgTDQ)@通州区图书馆（线上）(2022.8.7)，录制视频见[B站](https://www.bilibili.com/video/BV1314y1b7EF?spm_id_from=333.999.0.0&vd_source=5455efc7ab8615e4fb2921630f6cfbe5)或[知乎](https://www.zhihu.com/zvideo/1540399173920186368)
+- [中国的探月故事](https://www.sjsggwh.com/Activitys/Details/14539?code=5e9e66e6-aea9-466f-957e-8d34f38f314a)@石景山区文化中心(2022.8.13)
 - ......
 
 科普著作：
