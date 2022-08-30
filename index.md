@@ -59,6 +59,7 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 -	National Scholarship, fall, 2016
 -	Pexpertmaker to Merit Student, Wuhan University, fall, 2016
 -	Outstanding Graduates, Wuhan University, summer, 2017
+-	Outstanding Students Leaders, UCAS, summer, 2018 
 
  
 ## Conferences & Schools
