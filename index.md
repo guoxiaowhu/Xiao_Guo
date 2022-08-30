@@ -12,6 +12,7 @@ Here is some personal information about him:
 - Github: [guoxiaowhu](https://github.com/guoxiaowhu) 
 - Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc) 
 - WeChat Public Account: 疏雪雾里
+- Bilibili account: [疏雪雾里](https://space.bilibili.com/504479552/)
 ## Interested Fields
 - Gravitational Wave 
   - Data analysis
