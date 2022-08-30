@@ -36,7 +36,7 @@ Here is some personal information about him:
 
 ## Education
 - 2013.9-2017.6: [Wuhan University](https://www.whu.edu.cn/), physics, bachelor;
-- 2017.9-20??.?: [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://www.nao.cas.cn/jypy/ds/bsds/index_90957.html?json=http://sourcedb.naoc.cas.cn/cn/gb/ds/bd/202204/t20220406_6419455.json)). 
+- 2017.9-202?.?: [National Astronomical Observatories, Chinese Academy of Sciences](http://nao.cas.cn/), astrophysics, doctor, supervisor: Youjun Lu ([陆由俊](http://www.nao.cas.cn/jypy/ds/bsds/index_90957.html?json=http://sourcedb.naoc.cas.cn/cn/gb/ds/bd/202204/t20220406_6419455.json)). 
 
 ## Teaching
 Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UCAS, spring, 2022
