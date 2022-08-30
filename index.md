@@ -48,6 +48,19 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 
 More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-0760).
 
+## Honors
+- Basic Subject Freshman Scholarship, Wuhan University, fall, 2013
+-	Second-class Scholarship, Wuhan University, fall, 2014
+-	Outstanding Student, Wuhan University, fall, 2014
+-	Third prize in preliminary of Chinese Undergraduate Mathematics Contest, Nov., 2014
+-	Third prize in Chinese Undergraduate Physicists’ Tournament, May, 2015 
+-	National Scholarship, fall, 2015
+-	Merit Student, Wuhan University, fall, 2015
+-	National Scholarship, fall, 2016
+-	Pexpertmaker to Merit Student, Wuhan University, fall, 2016
+-	Outstanding Graduates, Wuhan University, summer, 2017
+
+ 
 ## Conferences & Schools
 - 2016.8, the 3rd BNU International Summer School on Quantum Gravity @ Beijing(北京), China;
 - 2017, Spring School for Numerical Relativity @ ITP, CAS, Beijing(北京), China (理论物理所数值相对论春季学校);
