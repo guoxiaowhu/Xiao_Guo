@@ -10,6 +10,7 @@ Here is some personal information about him:
 - ORCID: [0000-0001-5174-0760](https://orcid.org/0000-0001-5174-0760)
 - Homepage: [https://guoxiaowhu.github.io/Xiao_Guo/](https://guoxiaowhu.github.io/Xiao_Guo/) 
 - Github: [guoxiaowhu](https://github.com/guoxiaowhu) 
+- Researchgate: [Xiao Guo](https://www.researchgate.net/profile/Xiao-Guo-13)
 - Zhihu(知乎): [guoxiaonaoc](https://www.zhihu.com/people/guoxiaonaoc) 
 - WeChat Public Account: 疏雪雾里
 - Bilibili account: [疏雪雾里](https://space.bilibili.com/504479552/)
