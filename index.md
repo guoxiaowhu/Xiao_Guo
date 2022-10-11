@@ -4,8 +4,8 @@
 郭潇（1995-），字培渊，男，湖北黄冈武穴人。
 
 
-**Xiao GUO (郭潇)**, a PhD student at National Astronomical Observatories, Chinese Academy of Sciences, a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/), engages in gravitational wave astrophysics research. He had ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and has taken part in many voluntary activities. He loves science and the popularization of science, has written several popular science articles and has given some popular science lectures to public. 
-Here is some personal information about him:
+I am **Xiao GUO (郭潇)**, a PhD student at National Astronomical Observatories, Chinese Academy of Sciences, a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/), engage in gravitational wave astrophysics research. I had ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and has taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
+Here is some personal information about me:
 - E-mail: guoxiao@nao.cas.cn, guoxiaowhu@whu.edu.cn 
 - ORCID: [0000-0001-5174-0760](https://orcid.org/0000-0001-5174-0760)
 - Homepage: [https://guoxiaowhu.github.io/Xiao_Guo/](https://guoxiaowhu.github.io/Xiao_Guo/) 
