@@ -56,12 +56,12 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 -	Outstanding Student, Wuhan University, fall, 2014
 -	Third prize in preliminary of Chinese Undergraduate Mathematics Contest, Nov., 2014
 -	Third prize in Chinese Undergraduate Physicists’ Tournament, May, 2015 
--	National Scholarship, fall, 2015
+-	**National Scholarship**, fall, 2015
 -	Merit Student, Wuhan University, fall, 2015
--	National Scholarship, fall, 2016
+-	**National Scholarship**, fall, 2016
 -	Pexpertmaker to Merit Student, Wuhan University, fall, 2016
--	Outstanding Graduates, Wuhan University, summer, 2017
--	Outstanding Students Leaders, UCAS, summer, 2018
+-	Outstanding Graduate, Wuhan University, summer, 2017
+-	Excellent Student Cadre, UCAS, summer, 2018
 -	Merit Student, UCAS, summer, 2019 
 
  
@@ -73,10 +73,13 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 - 2019.8, the Third Conference for Gravitational Wave Astrophysics @ Kunming(昆明), China;
 - 2019.11, The 2019 KIAA-PKU Astrophysics Forum: The Future of Gravitational Wave Astrophysics @ PKU, Beijing(北京), China;
 - 2021.2.20-28, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC_NAOC), online
-- 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society @ Shenyang(沈阳), China;
+- 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society @ Shenyang(沈阳), China. Talk: Numerical calculation of diffraction integral for gravitational lensing of gravitational wave;
 - 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1) @ Hefei(合肥), China;
-- 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC), online
+- 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC), online. Talk: On the Gravitational Lensing of Gravitational Wave;
 - .....
+
+Invited talks:
+-2022.9.5, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/PI8pkgHeKS7jgbNnvkKzCQ) SWIFAR(online)
 
 ## Skills & Courses
 I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)  
