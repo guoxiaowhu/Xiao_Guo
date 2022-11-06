@@ -46,7 +46,7 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 - **Guo, Xiao**, & Lu, Youjun, (2020). Convergence and efficiency of different methods to compute the diffraction integral for gravitational lensing of gravitational waves. [Physical Review D, 102, 124076.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.124076) [arXiv:2012.03474](https://arxiv.org/pdf/2012.03474.pdf).
 - 陆由俊，**郭潇**, (2022).人类首次探测到中子星-黑洞并合(The first detection of neutron star-black hole binary mergers). 科学通报(Chinese Science Bulletin), 67: 2610-2615, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
 - **Guo, Xiao**, & Lu, Youjun, (2022). Probing the nature of dark matter via gravitational waves lensed by small dark matter halos. [Physical Review D, 106, 023018.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.023018) [arXiv:2207.00325](https://arxiv.org/pdf/2207.00325.pdf). 
-- **Guo, Xiao**, Lu, Youjun, Yu, Qingjuan, (2022). On Detecting Nearby Nanohertz Gravitational Wave Sources via Pulsar Timing Arrays. [ApJ, 939, 55](https://doi.org/10.3847/1538-4357/ac9131) . [arXiv: 2209.05666](https://arxiv.org/pdf/2209.05666.pdf).
+- **Guo, Xiao**, Lu, Youjun, Yu, Qingjuan, (2022). On Detecting Nearby Nanohertz Gravitational Wave Sources via Pulsar Timing Arrays. [ApJ, 939, 55](https://doi.org/10.3847/1538-4357/ac9131). [arXiv: 2209.05666](https://arxiv.org/pdf/2209.05666.pdf).
 
 More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-0760).
 
