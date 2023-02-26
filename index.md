@@ -47,7 +47,7 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 - Lu Youjun，**Guo Xiao**, (2022). The first detection of neutron star-black hole binary mergers. Chinese Science Bulletin(科学通报), 67: 2610-2615, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
 - **Guo Xiao**, & Lu Youjun, (2022). Probing the nature of dark matter via gravitational waves lensed by small dark matter halos. [Physical Review D, 106, 023018.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.023018) [arXiv:2207.00325](https://arxiv.org/pdf/2207.00325.pdf). 
 - **Guo Xiao**, Lu Youjun, Yu Qingjuan, (2022). On Detecting Nearby Nanohertz Gravitational Wave Sources via Pulsar Timing Arrays. [ApJ, 939, 55](https://doi.org/10.3847/1538-4357/ac9131). [arXiv: 2209.05666](https://arxiv.org/pdf/2209.05666.pdf).
-- Ma, Hao, Lu, Youjun, **Guo, Xiao**, Zhang, Siqi & Chu, Qingbo, (2023). On the detection of the electromagnetic counterparts from lensed gravitational wave events by binary neutron star mergers. [https://doi.org/10.1093/mnras/stac3418](MNRAS, 518,6183).
+- Ma, Hao, Lu, Youjun, **Guo, Xiao**, Zhang, Siqi & Chu, Qingbo, (2023). On the detection of the electromagnetic counterparts from lensed gravitational wave events by binary neutron star mergers. [MNRAS, 518,6183](https://doi.org/10.1093/mnras/stac3418).
 
 More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-0760).
 
