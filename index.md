@@ -14,6 +14,7 @@ Here is some personal information about me:
 - Zhihu(知乎): [疏雪雾里](https://www.zhihu.com/people/guoxiaonaoc) 
 - WeChat Public Account: 疏雪雾里![QR code](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/MathPhysics.png?raw=true)
 - Bilibili account: [疏雪雾里](https://space.bilibili.com/504479552/)
+- Sina Weibo account: 疏雪雾里 
 ## Interested Fields
 - Gravitational Wave 
   - Data analysis
@@ -135,4 +136,6 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - 2017-2018，中国科学院大学天文协会科普部部长，中国科学院与"两弹一星"纪念馆讲解员；
 - 2018-2019，国家天文台研究生会学术部部长；
 
+## Contact Me
+You leave messeage on my social account or send a email to guoxiao17@mails.ucas.ac.cn
 
