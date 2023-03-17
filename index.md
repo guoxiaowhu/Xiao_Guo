@@ -138,5 +138,5 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - 2018-2019，国家天文台研究生会学术部部长；
 
 ## Contact Me
-You leave messeage on my social account or send a email to my email.
+You leave messeages on my social accounts or send an email to my email.
 
