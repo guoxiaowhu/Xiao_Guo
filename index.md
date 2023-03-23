@@ -77,7 +77,7 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 - 2021.2.20-28, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC_NAOC), online
 - 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society @ Shenyang(沈阳), China. Talk: Numerical calculation of diffraction integral for gravitational lensing of gravitational wave;
 - 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1) @ Hefei(合肥), China;
-- 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC), online. Talk: On the Gravitational Lensing of Gravitational Wave;
+- 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC), online. Invited talk: On the Gravitational Lensing of Gravitational Wave;
 - .....
 
 Invited talks:
@@ -117,7 +117,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
   - [长图 宇宙中的引力波交响乐](https://mp.weixin.qq.com/s/8UL9jsTFznpwoOQB-hnS8Q)
 
 期刊/报刊：
-- 郭潇，天琴：听见更多引力波的旋律. 北京日报
+- **郭潇**，天琴：听见更多引力波的旋律. 北京日报
 - **郭潇** & 陆由俊(2019). 引力波探测：倾听宇宙的弦外之音. 知识就是力量（汉藏文）, 1, 22
 - 陆由俊，**郭潇**, (2022).人类首次探测到中子星-黑洞并合. 科学通报, 67: 2610-2615, DOI: [10.1360/TB-2022-0078](https://doi.org/10.1360/TB-2022-0078).
 
