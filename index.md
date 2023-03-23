@@ -126,7 +126,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - [引力波：倾听宇宙的交响乐](https://mp.weixin.qq.com/s/iEVpdyqeZx2nZI8PCCLhvQ)@美后肆时F1美会馆(2021.10.7)
 - [中国的探月故事](https://mp.weixin.qq.com/s/fjwY-nMQJ430ZUEN9LgTDQ)@通州区图书馆（线上）(2022.8.7)，录制视频见[B站](https://www.bilibili.com/video/BV1314y1b7EF?spm_id_from=333.999.0.0&vd_source=5455efc7ab8615e4fb2921630f6cfbe5)或[知乎](https://www.zhihu.com/zvideo/1540399173920186368)
 - [中国的探月故事](https://www.sjsggwh.com/Activitys/Details/14539?code=5e9e66e6-aea9-466f-957e-8d34f38f314a)@石景山区文化中心(2022.8.13)
--   [时空的波动：引力波](https://mp.weixin.qq.com/s/7VaSBDjj5HNNcj9-YSMKug)@通州区图书馆（线上）(2022.8.21)[B站](https://www.bilibili.com/video/BV1eN4y1c7cE/?spm_id_from=333.999.list.card_archive.click&vd_source=5455efc7ab8615e4fb2921630f6cfbe5) 或[知乎](https://www.zhihu.com/zvideo/1547151320834048000)
+- [时空的波动：引力波](https://mp.weixin.qq.com/s/7VaSBDjj5HNNcj9-YSMKug)@通州区图书馆（线上）(2022.8.21)，录制视频见[B站](https://www.bilibili.com/video/BV1eN4y1c7cE/?spm_id_from=333.999.list.card_archive.click&vd_source=5455efc7ab8615e4fb2921630f6cfbe5) 或[知乎](https://www.zhihu.com/zvideo/1547151320834048000)
 - [时空的波动：引力波](https://mp.weixin.qq.com/s/p_IG2_3WDPsJ1_bgwrSW-Q)@石景山区文化中心(2022.9.3)
 - ......
 
