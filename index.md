@@ -1,7 +1,7 @@
 # Welcome to Xiao Guo's Homepage!
 ![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/National_Lib.jpg)
 
-郭潇（1995-），字培渊，男，湖北黄冈武穴人，科研工作者，KAGRA 合作组成员，主要从事引力波天体物理研究。
+郭潇（1995-），字培渊，男，湖北黄冈武穴人，科研工作者，KAGRA 合作组成员，主要从事引力波天体物理研究，现为中国科学院国家天文台博士研究生。
 
 
 I am **Xiao GUO (郭潇)**, a PhD student at National Astronomical Observatories, Chinese Academy of Sciences, a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/), who engage in gravitational wave astrophysics research. I had ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and has taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
