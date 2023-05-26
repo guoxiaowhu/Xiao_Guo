@@ -95,6 +95,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - [Chinese poetry](https://github.com/guoxiaowhu/chinese-poetry)
 - Running, badminton, etc.
 - Astronomy & traveling, and I like the beauty of nature
+- Aerospace: aeronautics and astronautics 
 - Photography
 - Go (围棋) and so on
 
