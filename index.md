@@ -83,7 +83,7 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 Invited talks:
 - 2022.9.5, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/PI8pkgHeKS7jgbNnvkKzCQ), SWIFAR(online)
 - 2023.3.14, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/spJQmwziAvexqUUQ2AYQNw)@KIAA, PKU
-- 2023.6.5, [用引力波的引力透镜效应探测暗物质的本质(Probing the nature of dark matter via lensed gravitational wave)]()@Shenzhen Technology University (SZTU)
+- 2023.6.5, [用引力波的引力透镜效应探测暗物质的本质(Probing the nature of dark matter via lensed gravitational wave)](https://github.com/guoxiaowhu/Xiao_Guo/blob/guoxiaowhu-patch-1/SciRep/SZTU.jpg)@Shenzhen Technology University (SZTU)
 
 ## Skills & Courses
 I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)  
@@ -133,7 +133,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - ......
 
 科普著作：
-- 在南斗天文团队中参与了[《DK太空》](https://mp.weixin.qq.com/s/cz2Hl51nxG64pcd454zrGQ)一书的校译工作，尤其是其中宇宙学的部分由我负责
+- 在南斗天文团队中参与了[《DK太空》](https://mp.weixin.qq.com/s/cz2Hl51nxG64pcd454zrGQ)一书的校译工作
 
 ## Social Experience
 - 2014-2015，武汉大学物理学院13级物基二班班长；
