@@ -1,7 +1,7 @@
 # Welcome to Xiao Guo's Homepage!
 ![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/National_Lib.jpg)
 
-郭潇（1995-），字培渊，男，湖北黄冈武穴人，科研工作者，KAGRA 合作组成员，主要从事引力波天体物理研究，现为中国科学院国家天文台博士研究生。
+郭潇（1995-），字培渊，男，湖北黄冈武穴人，科研工作者，KAGRA 合作组成员，主要从事引力波天体物理研究，于2023年获得中国科学院大学以及中国科学院国家天文台的博士学位。
 
 
 I am **Xiao GUO (郭潇)**, a PhD student at National Astronomical Observatories, Chinese Academy of Sciences, a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/), who engage in gravitational wave astrophysics research. I had ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and has taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
@@ -83,6 +83,7 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 Invited talks:
 - 2022.9.5, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/PI8pkgHeKS7jgbNnvkKzCQ), SWIFAR(online)
 - 2023.3.14, [Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos](https://mp.weixin.qq.com/s/spJQmwziAvexqUUQ2AYQNw)@KIAA, PKU
+- 2023.6.5, [用引力波的引力透镜效应探测暗物质的本质(Probing the nature of dark matter via lensed gravitational wave)]()@Shenzhen Technology University (SZTU)
 
 ## Skills & Courses
 I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)  
