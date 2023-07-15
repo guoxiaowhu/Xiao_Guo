@@ -130,10 +130,12 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - [中国的探月故事](https://www.sjsggwh.com/Activitys/Details/14539?code=5e9e66e6-aea9-466f-957e-8d34f38f314a)@石景山区文化中心(2022.8.13)
 - [时空的波动：引力波](https://mp.weixin.qq.com/s/7VaSBDjj5HNNcj9-YSMKug)@通州区图书馆（线上）(2022.8.21)，录制视频见[B站](https://www.bilibili.com/video/BV1eN4y1c7cE/?spm_id_from=333.999.list.card_archive.click&vd_source=5455efc7ab8615e4fb2921630f6cfbe5) 或[知乎](https://www.zhihu.com/zvideo/1547151320834048000)
 - [时空的波动：引力波](https://mp.weixin.qq.com/s/p_IG2_3WDPsJ1_bgwrSW-Q)@石景山区文化中心(2022.9.3)
+- [恒星的“全家福”](https://mp.weixin.qq.com/s?__biz=MzA3Nzk1MDA3MA==&mid=2693271263&idx=1&sn=f9e9fde52948f95ff8f575b17ef976f0&chksm=ba3693c68d411ad0c89ee05a740dea35ac7e51116ca0a859b2532c3d44fced4a4cfbfeae5397&scene=27)@北京儿童舒缓治疗活动中心
 - ......
 
 科普著作：
 - 在南斗天文团队中参与了[《DK太空》](https://mp.weixin.qq.com/s/cz2Hl51nxG64pcd454zrGQ)一书的校译工作
+- ......
 
 ## Social Experience
 - 2014-2015，武汉大学物理学院13级物基二班班长；
