@@ -77,7 +77,7 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 - 2021.2.20-28, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC_NAOC), online
 - 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society @ Shenyang(沈阳), China. Talk: Numerical calculation of diffraction integral for gravitational lensing of gravitational wave;
 - 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1) @ Hefei(合肥), China;
-- 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC), online. Invited talk: On the Gravitational Lensing of Gravitational Wave;
+- 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC) @ online. Invited talk: On the Gravitational Lensing of Gravitational Wave;
 - .....
 
 Invited talks:
