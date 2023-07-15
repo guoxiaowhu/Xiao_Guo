@@ -1,10 +1,10 @@
 # Welcome to Xiao Guo's Homepage!
 ![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/艺术照.jpg)
 
-郭潇（1995-），字培渊，男，湖北黄冈武穴人，科研工作者，KAGRA 合作组成员，主要从事引力波天体物理研究，于2023年获得中国科学院大学以及中国科学院国家天文台的博士学位。
+郭潇（1995-），字培渊，湖北黄冈武穴人，科研工作者，KAGRA 合作组成员，主要从事引力波天体物理研究，于2023年获得中国科学院大学以及中国科学院国家天文台的博士学位。
 
 
-I am **Xiao GUO (郭潇)**. I obtain PhD degree at National Astronomical Observatories, Chinese Academy of Sciences (NAOC) and University of Chinese Academy of Sciences (UCAS) in 2023. I engage in gravitational wave astrophysics researcha, and I am a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/). I have ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and have taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
+I am **Xiao GUO (郭潇)**. I obtain PhD degree at National Astronomical Observatories, Chinese Academy of Sciences (NAOC) and University of Chinese Academy of Sciences (UCAS) in 2023. I engage in gravitational wave astrophysics research, and I am a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/). I have ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and have taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
 Here is some personal information about me:
 - E-mail: guoxiao@nao.cas.cn, guoxiaowhu@whu.edu.cn 
 - ORCID: [0000-0001-5174-0760](https://orcid.org/0000-0001-5174-0760)
