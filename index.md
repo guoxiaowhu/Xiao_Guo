@@ -106,7 +106,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 </blockquote>
   
 
-## Popularization of Science
+## Popularization of Science 科普
 自媒体：
 - 国科大天文学院：
   - 超新星中的引力波[（一）](https://mp.weixin.qq.com/s/eqoXf2i_EkzhbxffdFO9lg)[（二）](https://mp.weixin.qq.com/s/aIjLWk3Auughyb4JVpGn8A)
