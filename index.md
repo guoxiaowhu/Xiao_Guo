@@ -153,6 +153,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - 2016-2017，武汉大学弘毅学堂16级弘毅五班助理班主任；
 - 2017-2018，中国科学院大学天文协会学术部部长，中国科学院与"两弹一星"纪念馆讲解员；
 - 2018-2019，国家天文台研究生会学术部部长；
+- 自2019年南斗天文成立以来，始终为南斗天文老师团队里的一员。
 
 ## Contact Me
 You leave messeages on my social accounts or send an email to my email.
