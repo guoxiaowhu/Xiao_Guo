@@ -132,6 +132,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - [时空的波动：引力波](https://mp.weixin.qq.com/s/p_IG2_3WDPsJ1_bgwrSW-Q)@石景山区文化中心(2022.9.3)
 - [恒星的“全家福”](https://activity.lingxi360.com/activity/caen47pzywmr8g61lp18701vkxlq2o95?ouid=calkpryz7m38qd9vnpmg109vxe2n15wo&utm_bccid=ca4lkpryz7m38qd91lewy09vxe2n15wo)@北京儿童舒缓治疗活动中心(2023.7.8)，详见[微信公众号推文](https://mp.weixin.qq.com/s/fJdGio7qMJrEFw14bESirw)
 - ......
+- 科学星期天系列线上海报报告见[链接](https://github.com/guoxiaowhu/Xiao_Guo/tree/guoxiaowhu-patch-1/SciPop)
 
 科普著作：
 - 在南斗天文团队中参与了[《DK太空》](https://mp.weixin.qq.com/s/cz2Hl51nxG64pcd454zrGQ)一书的校译工作
