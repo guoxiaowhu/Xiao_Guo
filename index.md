@@ -145,6 +145,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - 西安高新十初腾格里沙漠观星活动(2023年7月20-24日)，详见[微信公众号推文](https://mp.weixin.qq.com/s/TC9e9JXEgPTl5ro1EgE-Eg)
 
 科普讲解与观测：
+- 中国科学院与“两弹一星”纪念馆
 - 北京天文馆
 - 北京古观象台
 - 北京郊区观星
