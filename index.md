@@ -140,9 +140,9 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - ......
 
 研学旅行：
-- 亲子猫公司库布齐沙漠徒步观星活动(2017.10.，国庆节)
-- 亲子猫公司库布齐沙漠徒步观星活动(2018.10.，国庆节)
-- 西安高新十初腾格里沙漠观星活动(2023.7.20-24)，详见[微信公众号推文](https://mp.weixin.qq.com/s/TC9e9JXEgPTl5ro1EgE-Eg)
+- 亲子猫公司库布齐沙漠徒步观星活动(2017年10月2-4日，国庆节)
+- 亲子猫公司库布齐沙漠徒步观星活动(2018年10月2-4日，国庆节)
+- 西安高新十初腾格里沙漠观星活动(2023年7月20-24日)，详见[微信公众号推文](https://mp.weixin.qq.com/s/TC9e9JXEgPTl5ro1EgE-Eg)
 
 科普讲解与观测：
 - 北京天文馆
