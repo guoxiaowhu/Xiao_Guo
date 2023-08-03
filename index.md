@@ -137,7 +137,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 
 科普著作：
 - 在南斗天文团队中参与了[《DK太空》](https://mp.weixin.qq.com/s/cz2Hl51nxG64pcd454zrGQ)一书的校译工作
-- 在南斗天文团队中参与编著《和宇宙对话的中国》，出版社：电子工业出版社
+- 在南斗天文团队中参与编著《和宇宙对话的中国》（电子工业出版社）
 
 研学旅行：
 - 亲子猫公司库布齐沙漠徒步观星活动(2017年10月2-4日，国庆节)
