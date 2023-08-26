@@ -148,6 +148,7 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
 - 亲子猫公司库布齐沙漠徒步观星活动(2017年10月2-4日，国庆节)
 - 亲子猫公司库布齐沙漠徒步观星活动(2018年10月2-4日，国庆节)
 - 西安高新十初腾格里沙漠观星活动(2023年7月20-24日)，详见[微信公众号推文](https://mp.weixin.qq.com/s/TC9e9JXEgPTl5ro1EgE-Eg)
+- [乐檬kid|乌兰察布英仙座流星雨活动](https://mp.weixin.qq.com/s/znCVoXY_u9V8_4-TmpXiIw)
 
 科普讲解与观测：
 - 中国科学院与“两弹一星”纪念馆
