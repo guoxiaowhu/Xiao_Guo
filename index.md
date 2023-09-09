@@ -1,10 +1,10 @@
 # Welcome to Xiao Guo's Homepage!
 ![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/艺术照.jpg)
 
-郭潇，字培渊，湖北黄冈武穴人，科研工作者，国科大杭州高等研究院博士后（拟进站），主要从事引力波天体物理研究，曾为KAGRA 合作组成员，于2023年获得中国科学院大学以及中国科学院国家天文台的天体博士学位，2017年本科毕业于武汉大学。除科研之外，也从事天文相关的科普工作（见后）。
+郭潇，字培渊，湖北黄冈武穴人，科研工作者，国科大杭州高等研究院博士后，主要从事引力波天体物理研究，曾为KAGRA 合作组成员，于2023年获得中国科学院大学以及中国科学院国家天文台的天体博士学位，2017年本科毕业于武汉大学。除科研之外，也从事天文相关的科普工作（见后）。
 
 
-I am **Xiao GUO (郭潇)**. I obtain PhD degree at National Astronomical Observatories, Chinese Academy of Sciences (NAOC) and University of Chinese Academy of Sciences (UCAS) in 2023. I engage in gravitational wave astrophysics research, and I am a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/). I have ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and have taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
+I am **Xiao GUO (郭潇)**. I obtained PhD degree at National Astronomical Observatories, Chinese Academy of Sciences (NAOC) and University of Chinese Academy of Sciences (UCAS) in 2023. I engage in gravitational wave astrophysics research, and I am a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/). I have ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and have taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
 Here is some personal information about me:
 - E-mail: guoxiao17@mails.ucas.ac.cn, guoxiaowhu@whu.edu.cn 
 - ORCID: [0000-0001-5174-0760](https://orcid.org/0000-0001-5174-0760)
@@ -14,7 +14,8 @@ Here is some personal information about me:
 - Zhihu(知乎): [疏雪雾里](https://www.zhihu.com/people/guoxiaonaoc) 
 - WeChat Public Account: 疏雪雾里![QR code](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/MathPhysics.png?raw=true)
 - Bilibili account: [疏雪雾里](https://space.bilibili.com/504479552/)
-- Sina Weibo account: 疏雪雾里 
+- Sina Weibo account: 疏雪雾里
+- Office: 国科大杭高院3号楼2B-240
 ## Interested Fields
 - Gravitational Wave 
   - Data analysis
