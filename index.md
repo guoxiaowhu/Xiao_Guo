@@ -1,7 +1,7 @@
 # Welcome to Xiao Guo's Homepage!
 ![国图](https://raw.githubusercontent.com/guoxiaowhu/Xiao_Guo/gh-pages/艺术照.jpg)
 
-郭潇，字培渊，湖北黄冈武穴人，科研工作者，国科大杭州高等研究院博士后，主要从事引力波天体物理研究，曾为KAGRA 合作组成员，于2023年获得中国科学院大学以及中国科学院国家天文台的天体博士学位，2017年本科毕业于武汉大学。除科研之外，也从事天文相关的科普工作（见后）。
+郭潇，字培渊，湖北黄冈武穴人，科研工作者，国科大杭州高等研究院博士后，获选2023年博士后创新人才支持计划，主要从事引力波天体物理研究，曾为KAGRA 合作组成员，于2023年获得中国科学院大学以及中国科学院国家天文台的天体博士学位，2017年本科毕业于武汉大学。除科研之外，也从事天文相关的科普工作（见后）。
 
 
 I am **Xiao GUO (郭潇)**. I obtained PhD degree at National Astronomical Observatories, Chinese Academy of Sciences (NAOC) and University of Chinese Academy of Sciences (UCAS) in 2023. I engage in gravitational wave astrophysics research, and I am a member of [KAGRA collaboration](https://gwcenter.icrr.u-tokyo.ac.jp/). I have ever been a volunteer instructor of the Museum of Nuclear Bomb, Missile and Satellite, CAS in 2017-2018 and have taken part in many voluntary activities. I love science and the popularization of science, and have written several popular science articles and given some popular science lectures to public. 
