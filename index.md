@@ -56,6 +56,8 @@ Other subject:
 
 More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-0760) or [link](https://github.com/guoxiaowhu/published_papers).
 
+## Funding
+- 2023, Fellowship of China National Postdoctoral Innovation Talents Support Program (Grant No. BX20230104)
 
 
 ## Honors
@@ -72,9 +74,7 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 -	Excellent Student Cadre, UCAS, summer, 2018
 -	Merit Student, UCAS, summer, 2019 
 
-## Program
-- 2023, Fellowship of China National Postdoctoral Innovation Talents Support Program (Grant No. BX20230104)
- 
+
 ## Conferences & Schools
 - 2016.8, the 3rd BNU International Summer School on Quantum Gravity @ Beijing(北京), China;
 - 2017, Spring School for Numerical Relativity @ ITP, CAS, Beijing(北京), China (理论物理所数值相对论春季学校);
