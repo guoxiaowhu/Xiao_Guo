@@ -72,6 +72,8 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 -	Excellent Student Cadre, UCAS, summer, 2018
 -	Merit Student, UCAS, summer, 2019 
 
+## Program
+- 2023, Fellowship of China National Postdoctoral Innovation Talents Support Program (Grant No. BX20230104)
  
 ## Conferences & Schools
 - 2016.8, the 3rd BNU International Summer School on Quantum Gravity @ Beijing(北京), China;
@@ -84,7 +86,9 @@ More publications can see my [ORCID website](https://orcid.org/0000-0001-5174-07
 - 2021.4, Annual Meeting of Division of Gravity & Relativistic Astrophysics, Chinese Physical Society @ Shenyang(沈阳), China. Talk: Numerical calculation of diffraction integral for gravitational lensing of gravitational wave;
 - 2021.6, [Gravitational Wave Astrophysics Conference 2021](http://4th-gw-astro.csp.escience.cn/dct/page/1) @ Hefei(合肥), China;
 - 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC) @ online. Invited talk: On the Gravitational Lensing of Gravitational Wave;
-- 2023.3.31-4.2, 面向空间引力波探测的致密天体波源物理和天文学研究2022年度学术研讨会@中山大学, Zhuhai(珠海), China. Talk: Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos.
+- 2023.3.31-4.2, 面向空间引力波探测的致密天体波源物理和天文学研究2022年度学术研讨会@中山大学, Zhuhai(珠海), China. Talk: Probing the Nature of Dark Matter via Gravitational Waves Lensed by Small Dark Matter Halos;
+- 2023.10.13-16, International Mini-Workshop: Gravitational Waves in the Early Universe @ITP, CAS, Beijing(北京), China. 
+- 2023.10. Gravitation and Cosmology Workshop (引力与宇宙学研讨会) @ HIAS, UCAS, Beijing(北京), China. Talk: Probing the Nature of Dark Matter via Lensed Gravitational Waves 
 - .....
 
 Invited talks:
