@@ -128,6 +128,8 @@ I have learnt [these skills & courses](https://github.com/guoxiaowhu/Courses)
   - [AI版哥白尼，推导日心说so easy](https://mp.weixin.qq.com/s/ljJSsdUOxPN1YoPBxEeKnQ)
   - 聆听五音俱全的引力波宇宙[1.时空的交响乐](https://mp.weixin.qq.com/s/gH6diX0DKBpRS94A2a2neQ), [2.地基引力波探测](https://mp.weixin.qq.com/s/zeMZAd0crOVD4eFVSJstGw), [3.空间引力波探测](https://mp.weixin.qq.com/s/_gLJK6AtBStHksEGaMAsDQ), [4.脉冲星计时阵引力波探测](https://mp.weixin.qq.com/s/GL4d2mTMsBbughjHwFNhgg), [5.宇宙微波背景实验探测原初引力波](https://mp.weixin.qq.com/s/XB0ZF2RGuctBEdgXC6Ew_g) (主要负责文本撰写)
   - [长图 宇宙中的引力波交响乐](https://mp.weixin.qq.com/s/8UL9jsTFznpwoOQB-hnS8Q)
+- 风云之声：
+  - [“被动网红”韦神到底是研究什么的](https://mp.weixin.qq.com/s/IBNMAvJPvxu1YgjOSWPl4Q)
 
 期刊/报刊：
 - **郭潇**, (2020)，天琴：听见更多引力波的旋律. 北京日报
