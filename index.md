@@ -16,7 +16,6 @@ Here is some personal information about me:
 - WeChat Public Account: 疏雪雾里![QR code](https://github.com/guoxiaowhu/Xiao_Guo/blob/gh-pages/MathPhysics.png?raw=true)
 - Bilibili account: [疏雪雾里](https://space.bilibili.com/504479552/)
 - Sina Weibo account: 疏雪雾里
-- Office: 国科大杭高院3号楼2B-216
 ## Interested Fields
 - Gravitational Wave 
   - Data analysis
