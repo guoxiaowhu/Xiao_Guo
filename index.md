@@ -66,6 +66,7 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 - Yang Qing, **Guo Xiao**, Cao Zhoujian, Shao Xiaoyun & Yuan Xi (2025). Anisotropy of Nanohertz Gravitational Wave Background and Source Clustering from Supermassive Binary Black Holes Based on Cosmological Simulation. [The Astrophysical Journal, 989, 157](https://iopscience.iop.org/article/10.3847/1538-4357/aded02), [arXiv: 2408.05043](https://arxiv.org/pdf/2408.05043.pdf).
 - Qin Zheng, Sun Tian-Yang, Li Bo-Yuan, Zhang Jing-Fei, **Guo Xiao** & Zhang Xin (2025). Parameter inference of microlensed gravitational waves using neural spline flows. [arXiv: 2505.20996](https://arxiv.org/pdf/2505.20996).
 - Li Zhijin, **Guo Xiao**, Cao Zhoujian, Zhang Yun-Long (2025). Detectability of dark matter density distribution via gravitational waves from binary black holes in the Galactic center.[Physical Review D,112, 063055](https://journals.aps.org/prd/abstract/10.1103/zr7l-7y5c). [arXiv:2506.19327](https://arxiv.org/pdf/2506.19327).
+- Chen Zhiwei, Yu Qingjuan, Lu Youjun, **Guo Xiao** (2025). Enhanced Localization of Dark Lensed Gravitational Wave Events Enables Host Galaxy Identification and Precise Cosmological Inference. [arXiv:2510.12470](https://arxiv.org/pdf/2510.12470).
   
 Other subject:
 - YU, X., **GUO, X.**, JI, Y., TANG, S., JIA, C. & LEI, F. (2022). Migrational movements and seasonal home ranges of Greater Crested Terns Thalasseus bergii breeding in the South China Sea. [Marine Ornithology 50: 245 - 251](http://www.marineornithology.org/article?rn=1495)
