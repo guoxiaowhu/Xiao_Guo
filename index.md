@@ -68,7 +68,7 @@ Teaching assistant of Youjun Lu et al's _Gravitation and Cosmology_ course in UC
 - Li Zhijin, **Guo Xiao**, Cao Zhoujian & Zhang Yun-Long (2025). Detectability of dark matter density distribution via gravitational waves from binary black holes in the Galactic center.[Physical Review D,112, 063055](https://journals.aps.org/prd/abstract/10.1103/zr7l-7y5c). [arXiv: 2506.19327](https://arxiv.org/pdf/2506.19327).
 - Chen Zhiwei, Yu Qingjuan, Lu Youjun & **Guo Xiao** (2025). Enhanced Localization of Dark Lensed Gravitational Wave Events Enables Host Galaxy Identification and Precise Cosmological Inference. Accepted by ApJL. [arXiv: 2510.12470](https://arxiv.org/pdf/2510.12470).
 - Guan Siqi, Yang Shangbin & **Guo Xiao** (2025). Estimation of gravitational wave from solar emerging magnetic flux tube. Accepted by RAA. [arXiv: 2510.14239](https://arxiv.org/pdf/2510.14239)
-- Zhan Yejing, Izquierdo-Villalba  David, **Guo Xiao**, Yang Qing, Spinoso Daniele & Wang Fa-Yin (2025). Bright siren without electromagnetic counterpart by LISA-Taiji-TianQin network. [arXiv: 2509.04218](https://arxiv.org/pdf/2509.04218)
+- Zhan Yejing, Izquierdo-Villalba  David, **Guo Xiao**, Yang Qing, Spinoso Daniele & Wang Fa-Yin (2025). Bright siren without electromagnetic counterpart by LISA-Taiji-TianQin network. [ApJ, 995, 71](https://doi.org/10.3847/1538-4357/ae1743).[arXiv: 2509.04218](https://arxiv.org/pdf/2509.04218)
   
 Other subject:
 - YU, X., **GUO, X.**, JI, Y., TANG, S., JIA, C. & LEI, F. (2022). Migrational movements and seasonal home ranges of Greater Crested Terns Thalasseus bergii breeding in the South China Sea. [Marine Ornithology 50: 245 - 251](http://www.marineornithology.org/article?rn=1495)
